@@ -1,0 +1,45 @@
+// Overlay needed in order to configure LEDs as pwm LEDs instead of GPIO 
+// These changes allow LEDs to modify their brightness 
+
+
+//Adding missing dts elements concerning pwm leds on board
+/ {
+    pwmleds {
+        status = "okay"; 
+
+        pwm_led1: led_pwm_1 {
+            status = "okay"; 
+            pwms = <&pwm0 0xe>;
+            label = "LED2pwm"; 
+        };
+        pwm_led2: led_pwm_2 {
+            status = "okay"; 
+            pwms = <&pwm0 0xf>; 
+            label = "LED3pwm"; 
+        };
+
+        pwm_led3: led_pwm_3 { 
+            status = "okay";
+            pwms = <&pwm0 0x10>; 
+            label = "LED4pwm"; 
+        };
+    };
+
+    /* These aliases are provided for compatibility with samples */
+    aliases {
+        pwm-led1 = &pwm_led1;
+        pwm-led2 = &pwm_led2;
+        pwm-led3 = &pwm_led3;
+    };
+};
+
+&pwm0 {
+    ch0-pin = <13>;
+    ch0-inverted;
+    ch1-pin = <14>;
+    ch1-inverted;
+    ch2-pin = <15>;
+    ch2-inverted;
+    ch3-pin = <16>;
+    ch3-inverted;
+};

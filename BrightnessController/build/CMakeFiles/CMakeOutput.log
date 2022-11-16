@@ -1,0 +1,404 @@
+The target system is: Generic - 2.7.99 - arm
+The host system is: Windows - 10.0.22000 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/ncs/v1.9.1/toolchain/opt/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/3.20.5/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/ncs/v1.9.1/toolchain/opt/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is GNU, found in "C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+arm-none-eabi-gcc.exe (GNU Tools for Arm Embedded Processors 9-2019-q4-major) 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599]
+Copyright (C) 2019 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_9484c && [1/2] Building C object CMakeFiles/cmTC_9484c.dir/src.c.obj
+[2/2] Linking C executable cmTC_9484c
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0_ succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_f2502 && [1/2] Building C object CMakeFiles/cmTC_f2502.dir/src.c.obj
+[2/2] Linking C executable cmTC_f2502
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpointer_sign_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_35426 && [1/2] Building C object CMakeFiles/cmTC_35426.dir/src.c.obj
+[2/2] Linking C executable cmTC_35426
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpointer_arith_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_bdb99 && [1/2] Building C object CMakeFiles/cmTC_bdb99.dir/src.c.obj
+[2/2] Linking C executable cmTC_bdb99
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wexpansion_to_defined_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_af97f && [1/2] Building C object CMakeFiles/cmTC_af97f.dir/src.c.obj
+[2/2] Linking C executable cmTC_af97f
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wlogical_op_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_e7b7f && [1/2] Building C object CMakeFiles/cmTC_e7b7f.dir/src.c.obj
+[2/2] Linking C executable cmTC_e7b7f
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wmissing_field_initializers_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_e17aa && [1/2] Building C object CMakeFiles/cmTC_e17aa.dir/src.c.obj
+[2/2] Linking C executable cmTC_e17aa
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpacked_bitfield_compat_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_74f45 && [1/2] Building C object CMakeFiles/cmTC_74f45.dir/src.c.obj
+[2/2] Linking C executable cmTC_74f45
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wvla_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_0bc25 && [1/2] Building C object CMakeFiles/cmTC_0bc25.dir/src.c.obj
+[2/2] Linking C executable cmTC_0bc25
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wunused_but_set_variable_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_7082b && [1/2] Building C object CMakeFiles/cmTC_7082b.dir/src.c.obj
+[2/2] Linking C executable cmTC_7082b
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Werror_implicit_int_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_19686 && [1/2] Building C object CMakeFiles/cmTC_19686.dir/src.c.obj
+[2/2] Linking C executable cmTC_19686
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_freestanding_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_01b06 && [1/2] Building C object CMakeFiles/cmTC_01b06.dir/src.c.obj
+[2/2] Linking C executable cmTC_01b06
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_gdwarf_4_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_cc4b6 && [1/2] Building C object CMakeFiles/cmTC_cc4b6.dir/src.c.obj
+[2/2] Linking C executable cmTC_cc4b6
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___print_memory_usage succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_597a4 && [1/2] Building C object CMakeFiles/cmTC_597a4.dir/src.c.obj
+[2/2] Linking C executable cmTC_597a4
+Memory region         Used Size  Region Size  %age Used
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fsanitize_address succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_e0b1f && [1/2] Building C object CMakeFiles/cmTC_e0b1f.dir/src.c.obj
+[2/2] Linking C executable cmTC_e0b1f
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fsanitize_undefined succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_6f94e && [1/2] Building C object CMakeFiles/cmTC_6f94e.dir/src.c.obj
+[2/2] Linking C executable cmTC_6f94e
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__no_pie succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_236e3 && [1/2] Building C object CMakeFiles/cmTC_236e3.dir/src.c.obj
+[2/2] Linking C executable cmTC_236e3
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mcpu_cortex_m4 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_208fa && [1/2] Building C object CMakeFiles/cmTC_208fa.dir/src.c.obj
+[2/2] Linking C executable cmTC_208fa
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mthumb succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_d84ab && [1/2] Building C object CMakeFiles/cmTC_d84ab.dir/src.c.obj
+[2/2] Linking C executable cmTC_d84ab
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mabi_aapcs succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_1fce8 && [1/2] Building C object CMakeFiles/cmTC_1fce8.dir/src.c.obj
+[2/2] Linking C executable cmTC_1fce8
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mfp16_format_ieee succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_f11a6 && [1/2] Building C object CMakeFiles/cmTC_f11a6.dir/src.c.obj
+[2/2] Linking C executable cmTC_f11a6
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___gc_sections succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_0b1dd && [1/2] Building C object CMakeFiles/cmTC_0b1dd.dir/src.c.obj
+[2/2] Linking C executable cmTC_0b1dd
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___build_id_none succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_9c07f && [1/2] Building C object CMakeFiles/cmTC_9c07f.dir/src.c.obj
+[2/2] Linking C executable cmTC_9c07f
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___sort_common_descending succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_f3055 && [1/2] Building C object CMakeFiles/cmTC_f3055.dir/src.c.obj
+[2/2] Linking C executable cmTC_f3055
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___sort_section_alignment succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_e81c4 && [1/2] Building C object CMakeFiles/cmTC_e81c4.dir/src.c.obj
+[2/2] Linking C executable cmTC_e81c4
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__nostdlib succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_6248c && [1/2] Building C object CMakeFiles/cmTC_6248c.dir/src.c.obj
+[2/2] Linking C executable cmTC_6248c
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__static succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_541bb && [1/2] Building C object CMakeFiles/cmTC_541bb.dir/src.c.obj
+[2/2] Linking C executable cmTC_541bb
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl__X succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_c5aa6 && [1/2] Building C object CMakeFiles/cmTC_c5aa6.dir/src.c.obj
+[2/2] Linking C executable cmTC_c5aa6
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl__N succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_1a35b && [1/2] Building C object CMakeFiles/cmTC_1a35b.dir/src.c.obj
+[2/2] Linking C executable cmTC_1a35b
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___orphan_handling_warn succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_1da6e && [1/2] Building C object CMakeFiles/cmTC_1da6e.dir/src.c.obj
+[2/2] Linking C executable cmTC_1da6e
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_asynchronous_unwind_tables_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_102f9 && [1/2] Building C object CMakeFiles/cmTC_102f9.dir/src.c.obj
+[2/2] Linking C executable cmTC_102f9
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_pie_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_19b51 && [1/2] Building C object CMakeFiles/cmTC_19b51.dir/src.c.obj
+[2/2] Linking C executable cmTC_19b51
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_pic_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_da26a && [1/2] Building C object CMakeFiles/cmTC_da26a.dir/src.c.obj
+[2/2] Linking C executable cmTC_da26a
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_strict_overflow_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_7b62f && [1/2] Building C object CMakeFiles/cmTC_7b62f.dir/src.c.obj
+[2/2] Linking C executable cmTC_7b62f
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_reorder_functions_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_e2151 && [1/2] Building C object CMakeFiles/cmTC_e2151.dir/src.c.obj
+[2/2] Linking C executable cmTC_e2151
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_defer_pop_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_6a4f1 && [1/2] Building C object CMakeFiles/cmTC_6a4f1.dir/src.c.obj
+[2/2] Linking C executable cmTC_6a4f1
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map_C__Users_Bastien_Documents_BLEMesh_Nordic_BrightnessController_CMAKE_SOURCE_DIR_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_93e82 && [1/2] Building C object CMakeFiles/cmTC_93e82.dir/src.c.obj
+[2/2] Linking C executable cmTC_93e82
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map_c__ncs_v1_9_1_zephyr_ZEPHYR_BASE_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_836a2 && [1/2] Building C object CMakeFiles/cmTC_836a2.dir/src.c.obj
+[2/2] Linking C executable cmTC_836a2
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map_c__ncs_v1_9_1_WEST_TOPDIR_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_59a0e && [1/2] Building C object CMakeFiles/cmTC_59a0e.dir/src.c.obj
+[2/2] Linking C executable cmTC_59a0e
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_ffunction_sections_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_eeadb && [1/2] Building C object CMakeFiles/cmTC_eeadb.dir/src.c.obj
+[2/2] Linking C executable cmTC_eeadb
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fdata_sections_C__nostartfiles__nostdlib__isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__ncs_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/Users/Bastien/Documents/BLEMesh_Nordic/BrightnessController/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_ce101 && [1/2] Building C object CMakeFiles/cmTC_ce101.dir/src.c.obj
+[2/2] Linking C executable cmTC_ce101
+
+
+Source file was:
+int main(void) { return 0; }
