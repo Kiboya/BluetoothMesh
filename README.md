@@ -1,16 +1,6 @@
 # Bluetooth Mesh LED Control
 
-This project demonstrates the use of Bluetooth Mesh technology to control dimmable LEDs using Nordic Semiconductor's nRF52840 DK boards. It includes two main functionalities: a brightness controller and multiple dimmable LEDs.
-
-## Requirements
-
-- Hardware:
-  - Three nRF52840 DK boards.
-  - LEDs and buttons configured as per the board specifications.
-  
-- Software:
-  - nRF Connect SDK 1.9.1 or compatible.
-  - ZephyrRTOS.
+This project demonstrates the use of Bluetooth Mesh technology to control dimmable LEDs using Nordic Semiconductor's nRF52840 DK boards. It includes two main functionalities: a brightness controller and multiple dimmable LEDs. The code is based on the Bluetooth Mesh Developer Study Guide provided by the Bluetooth SIG.
 
 ## Components
 
